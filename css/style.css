@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital,opsz,wght@0,6..96,400..900;1,6..96,400..900&family=Sree+Krushnadevaraya&display=swap');
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body {
+	font-family: "Sree Krushnadevaraya", serif;
+    font-size: 18px;
+    margin: 0px; 
+}
+
+h1, h2, h3 {
+  font-family: "Bodoni Moda", serif;
+  font-weight: bold;
+}
+a {
+	text-decoration: none;
+}
